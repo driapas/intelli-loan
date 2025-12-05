@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_choice">
+    <sys_choice action="INSERT_OR_UPDATE">
+        <dependent_value/>
+        <element>u_state</element>
+        <hint/>
+        <inactive>false</inactive>
+        <label>Submitted</label>
+        <language>en</language>
+        <name>x_1610509_intell_0_intelli_loan_application</name>
+        <sequence>100</sequence>
+        <sys_class_name>sys_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-05 11:59:41</sys_created_on>
+        <sys_name>x_1610509_intell_0_intelli_loan_application.u_state.Submitted</sys_name>
+        <sys_package display_value="Intelli-Loan" source="x_1610509_intell_0">0d7c9b32472172103119b4b4116d439d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Intelli-Loan">0d7c9b32472172103119b4b4116d439d</sys_scope>
+        <sys_update_name>sys_choice_x_1610509_intell_0_intelli_loan_application_u_state_submitted</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-05 11:59:41</sys_updated_on>
+        <value>submitted</value>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+        <dependent_value/>
+        <element>u_state</element>
+        <hint/>
+        <inactive>false</inactive>
+        <label>Under Review</label>
+        <language>en</language>
+        <name>x_1610509_intell_0_intelli_loan_application</name>
+        <sequence>200</sequence>
+        <sys_class_name>sys_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-05 11:59:41</sys_created_on>
+        <sys_name>x_1610509_intell_0_intelli_loan_application.u_state.Under Review</sys_name>
+        <sys_package display_value="Intelli-Loan" source="x_1610509_intell_0">0d7c9b32472172103119b4b4116d439d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Intelli-Loan">0d7c9b32472172103119b4b4116d439d</sys_scope>
+        <sys_update_name>sys_choice_x_1610509_intell_0_intelli_loan_application_u_state_under_review</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-05 11:59:41</sys_updated_on>
+        <value>under_review</value>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+        <dependent_value/>
+        <element>u_state</element>
+        <hint/>
+        <inactive>false</inactive>
+        <label>Pending Applicant</label>
+        <language>en</language>
+        <name>x_1610509_intell_0_intelli_loan_application</name>
+        <sequence>300</sequence>
+        <sys_class_name>sys_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-05 11:59:41</sys_created_on>
+        <sys_name>x_1610509_intell_0_intelli_loan_application.u_state.Pending Applicant</sys_name>
+        <sys_package display_value="Intelli-Loan" source="x_1610509_intell_0">0d7c9b32472172103119b4b4116d439d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Intelli-Loan">0d7c9b32472172103119b4b4116d439d</sys_scope>
+        <sys_update_name>sys_choice_x_1610509_intell_0_intelli_loan_application_u_state_pending_applicant</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-05 11:59:41</sys_updated_on>
+        <value>pending_applicant</value>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+        <dependent_value/>
+        <element>u_state</element>
+        <hint/>
+        <inactive>false</inactive>
+        <label>Approved</label>
+        <language>en</language>
+        <name>x_1610509_intell_0_intelli_loan_application</name>
+        <sequence>400</sequence>
+        <sys_class_name>sys_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-05 11:59:41</sys_created_on>
+        <sys_name>x_1610509_intell_0_intelli_loan_application.u_state.Approved</sys_name>
+        <sys_package display_value="Intelli-Loan" source="x_1610509_intell_0">0d7c9b32472172103119b4b4116d439d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Intelli-Loan">0d7c9b32472172103119b4b4116d439d</sys_scope>
+        <sys_update_name>sys_choice_x_1610509_intell_0_intelli_loan_application_u_state_approved</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-05 11:59:41</sys_updated_on>
+        <value>approved</value>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+        <dependent_value/>
+        <element>u_state</element>
+        <hint/>
+        <inactive>false</inactive>
+        <label>Rejected</label>
+        <language>en</language>
+        <name>x_1610509_intell_0_intelli_loan_application</name>
+        <sequence>500</sequence>
+        <sys_class_name>sys_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-05 11:59:41</sys_created_on>
+        <sys_name>x_1610509_intell_0_intelli_loan_application.u_state.Rejected</sys_name>
+        <sys_package display_value="Intelli-Loan" source="x_1610509_intell_0">0d7c9b32472172103119b4b4116d439d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Intelli-Loan">0d7c9b32472172103119b4b4116d439d</sys_scope>
+        <sys_update_name>sys_choice_x_1610509_intell_0_intelli_loan_application_u_state_rejected</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-05 11:59:41</sys_updated_on>
+        <value>rejected</value>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+        <dependent_value/>
+        <element>u_state</element>
+        <hint/>
+        <inactive>false</inactive>
+        <label>Cancelled</label>
+        <language>en</language>
+        <name>x_1610509_intell_0_intelli_loan_application</name>
+        <sequence>600</sequence>
+        <sys_class_name>sys_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-05 11:59:41</sys_created_on>
+        <sys_name>x_1610509_intell_0_intelli_loan_application.u_state.Cancelled</sys_name>
+        <sys_package display_value="Intelli-Loan" source="x_1610509_intell_0">0d7c9b32472172103119b4b4116d439d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Intelli-Loan">0d7c9b32472172103119b4b4116d439d</sys_scope>
+        <sys_update_name>sys_choice_x_1610509_intell_0_intelli_loan_application_u_state_cancelled</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-05 11:59:41</sys_updated_on>
+        <value>cancelled</value>
+    </sys_choice>
+</record_update>
+
+

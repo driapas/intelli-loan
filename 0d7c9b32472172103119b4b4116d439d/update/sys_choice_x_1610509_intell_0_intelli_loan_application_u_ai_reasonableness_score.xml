@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_choice">
+    <sys_choice action="INSERT_OR_UPDATE">
+        <dependent_value/>
+        <element>u_ai_reasonableness_score</element>
+        <hint/>
+        <inactive>false</inactive>
+        <label>Underpriced</label>
+        <language>en</language>
+        <name>x_1610509_intell_0_intelli_loan_application</name>
+        <sequence>100</sequence>
+        <sys_class_name>sys_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-05 11:59:41</sys_created_on>
+        <sys_name>x_1610509_intell_0_intelli_loan_application.u_ai_reasonableness_score.Underpriced</sys_name>
+        <sys_package display_value="Intelli-Loan" source="x_1610509_intell_0">0d7c9b32472172103119b4b4116d439d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Intelli-Loan">0d7c9b32472172103119b4b4116d439d</sys_scope>
+        <sys_update_name>sys_choice_x_1610509_intell_0_intelli_loan_application_u_ai_reasonableness_score_underpriced</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-05 11:59:41</sys_updated_on>
+        <value>underpriced</value>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+        <dependent_value/>
+        <element>u_ai_reasonableness_score</element>
+        <hint/>
+        <inactive>false</inactive>
+        <label>Reasonable</label>
+        <language>en</language>
+        <name>x_1610509_intell_0_intelli_loan_application</name>
+        <sequence>200</sequence>
+        <sys_class_name>sys_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-05 11:59:41</sys_created_on>
+        <sys_name>x_1610509_intell_0_intelli_loan_application.u_ai_reasonableness_score.Reasonable</sys_name>
+        <sys_package display_value="Intelli-Loan" source="x_1610509_intell_0">0d7c9b32472172103119b4b4116d439d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Intelli-Loan">0d7c9b32472172103119b4b4116d439d</sys_scope>
+        <sys_update_name>sys_choice_x_1610509_intell_0_intelli_loan_application_u_ai_reasonableness_score_reasonable</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-05 11:59:41</sys_updated_on>
+        <value>reasonable</value>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+        <dependent_value/>
+        <element>u_ai_reasonableness_score</element>
+        <hint/>
+        <inactive>false</inactive>
+        <label>Overpriced</label>
+        <language>en</language>
+        <name>x_1610509_intell_0_intelli_loan_application</name>
+        <sequence>300</sequence>
+        <sys_class_name>sys_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-05 11:59:41</sys_created_on>
+        <sys_name>x_1610509_intell_0_intelli_loan_application.u_ai_reasonableness_score.Overpriced</sys_name>
+        <sys_package display_value="Intelli-Loan" source="x_1610509_intell_0">0d7c9b32472172103119b4b4116d439d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Intelli-Loan">0d7c9b32472172103119b4b4116d439d</sys_scope>
+        <sys_update_name>sys_choice_x_1610509_intell_0_intelli_loan_application_u_ai_reasonableness_score_overpriced</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-05 11:59:41</sys_updated_on>
+        <value>overpriced</value>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+        <dependent_value/>
+        <element>u_ai_reasonableness_score</element>
+        <hint/>
+        <inactive>false</inactive>
+        <label>Uncertain</label>
+        <language>en</language>
+        <name>x_1610509_intell_0_intelli_loan_application</name>
+        <sequence>400</sequence>
+        <sys_class_name>sys_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-05 11:59:41</sys_created_on>
+        <sys_name>x_1610509_intell_0_intelli_loan_application.u_ai_reasonableness_score.Uncertain</sys_name>
+        <sys_package display_value="Intelli-Loan" source="x_1610509_intell_0">0d7c9b32472172103119b4b4116d439d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Intelli-Loan">0d7c9b32472172103119b4b4116d439d</sys_scope>
+        <sys_update_name>sys_choice_x_1610509_intell_0_intelli_loan_application_u_ai_reasonableness_score_uncertain</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-05 11:59:41</sys_updated_on>
+        <value>uncertain</value>
+    </sys_choice>
+</record_update>
+
+
