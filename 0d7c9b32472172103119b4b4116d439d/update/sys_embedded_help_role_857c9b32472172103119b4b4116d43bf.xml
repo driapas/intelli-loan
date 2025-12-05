@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <role display_value="x_1610509_intell_0.intelli_loan_manager" name="x_1610509_intell_0.intelli_loan_manager">097c9b32472172103119b4b4116d43ba</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-05 11:41:48</sys_created_on>
+        <sys_id>857c9b32472172103119b4b4116d43bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>097c9b32472172103119b4b4116d43ba</sys_name>
+        <sys_package display_value="Intelli-Loan" source="x_1610509_intell_0">0d7c9b32472172103119b4b4116d439d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Intelli-Loan">0d7c9b32472172103119b4b4116d439d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_857c9b32472172103119b4b4116d43bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-05 11:41:48</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
