@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <filter_extension/>
+        <is_df_table>false</is_df_table>
+        <is_extendable>false</is_extendable>
+        <label>Intelli Loan Application</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_1610509_intell_0_intelli_loan_application</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-05 11:59:40</sys_created_on>
+        <sys_id>2150a37a472172103119b4b4116d4328</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Intelli Loan Application</sys_name>
+        <sys_package display_value="Intelli-Loan" source="x_1610509_intell_0">0d7c9b32472172103119b4b4116d439d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Intelli-Loan">0d7c9b32472172103119b4b4116d439d</sys_scope>
+        <sys_update_name>sys_db_object_2150a37a472172103119b4b4116d4328</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-05 11:59:40</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_1610509_intell_0.intelli_loan_application_user" name="x_1610509_intell_0.intelli_loan_application_user">7e80677a472172103119b4b4116d435b</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

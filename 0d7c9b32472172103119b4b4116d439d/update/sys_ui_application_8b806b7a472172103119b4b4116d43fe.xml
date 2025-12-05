@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Intelli Loan Application</name>
+        <order/>
+        <roles>x_1610509_intell_0.intelli_loan_application_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-05 11:59:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8b806b7a472172103119b4b4116d43fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Intelli Loan Application</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Intelli-Loan" source="x_1610509_intell_0">0d7c9b32472172103119b4b4116d439d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Intelli-Loan">0d7c9b32472172103119b4b4116d439d</sys_scope>
+        <sys_update_name>sys_ui_application_8b806b7a472172103119b4b4116d43fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-05 11:59:40</sys_updated_on>
+    </sys_ui_application>
+</record_update>
